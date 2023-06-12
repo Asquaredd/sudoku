@@ -244,7 +244,7 @@ nav {
     width: var(--sudoku-cell-size);
     border-radius: var(--border-radius);
     background-color: var(--bg-main);
-    color: var(--blue);
+    color: blue;
     display: grid;
     place-items: center;
     font-size: var(--font-size);
