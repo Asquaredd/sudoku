@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC:wght@300&family=Cherry+Bomb+One&family=Indie+Flower&family=Josefin+Sans&family=Poppins:wght@700&family=Sofia+Sans:wght@500&family=Ubuntu&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Brush+Script&display=swap');
 
 :root {
     --bg-main: #f0f2f5;
@@ -22,8 +21,8 @@
 
     --gap: 15px;
 
-    --font-size: 1.5rem;
-    --font-size-lg: 2rem;
+    --font-size: 2rem;
+    --font-size-lg: 3.5rem;
     --font-size-xl: 3rem;
 }
 
@@ -43,7 +42,7 @@
 }
 
 body {
-    font-family: "Cherry Bomb  One", cursive;
+    font-family: "Nanum Brush Script", cursive;
     font-weight: bold1;
     /* height: 100vh; */
     background-color: var(--bg-body);
@@ -52,7 +51,7 @@ body {
 }
 
 input {
-    font-family: "Potta One", cursive;
+    font-family: "Nanum Brush Script", cursive;
     border: 2px solid var(--bg-main);
     color: var(--color-txt);
 }
